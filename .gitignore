@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+calibration.json
+*.mp4
+tools/*_gt.json
